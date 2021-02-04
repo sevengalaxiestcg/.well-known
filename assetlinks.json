@@ -1,9 +1,5 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.fr_solutions.trivia.endless",
-    "sha256_cert_fingerprints":
-    ["1B:CA:26:88:D9:15:B5:1C:53:D3:1F:F4:A7:16:23:6D:34:49:FD:9F:85:D9:01:B3:27:BB:6E:B0:D0:B7:E9:DC"]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "sevengalaxiestcg.app",
+                   "sha256_cert_fingerprints": ["5F:C3:E7:79:EF:BC:9E:F5:89:FE:D7:7E:D9:98:CF:05:90:38:3E:6A:0B:13:E6:07:6E:FD:D4:62:96:8C:D3:31"] }
+    }]
