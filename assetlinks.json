@@ -1,5 +1,5 @@
 [{
       "relation": ["delegate_permission/common.handle_all_urls"],
-      "target" : { "namespace": "android_app", "package_name": "sevengalaxiestcg.app.twa",
-                   "sha256_cert_fingerprints": ["7A:EE:5E:A9:94:DC:7C:24:1F:FA:9F:E9:1F:37:6B:4F:82:39:72:61:69:4C:A8:84:AC:22:76:B2:BF:20:E9:2E"] }
+      "target" : { "namespace": "android_app", "package_name": "com.sevengalaxiestcg.app.twa",
+                   "sha256_cert_fingerprints": ["66:91:0D:FD:BB:64:84:21:55:B5:7C:0E:9B:7F:02:F4:40:A2:5F:DD:8B:F3:95:25:EC:1D:CA:22:84:10:BE:1A"] }
     }]
